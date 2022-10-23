@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/form-validate/static/css/main.770aa57f.css",
-    "main.js": "/form-validate/static/js/main.311ef214.js",
+    "main.js": "/form-validate/static/js/main.dbfa9288.js",
     "static/js/787.d48d436c.chunk.js": "/form-validate/static/js/787.d48d436c.chunk.js",
     "index.html": "/form-validate/index.html",
     "main.770aa57f.css.map": "/form-validate/static/css/main.770aa57f.css.map",
-    "main.311ef214.js.map": "/form-validate/static/js/main.311ef214.js.map",
+    "main.dbfa9288.js.map": "/form-validate/static/js/main.dbfa9288.js.map",
     "787.d48d436c.chunk.js.map": "/form-validate/static/js/787.d48d436c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.770aa57f.css",
-    "static/js/main.311ef214.js"
+    "static/js/main.dbfa9288.js"
   ]
 }
